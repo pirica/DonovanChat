@@ -10,7 +10,8 @@ $minmsg = "10";
 $maxmsg = "100"; 
 $maxsize = "100000000"; 
 $weburl = "http://localhost";
-?>```
+?>
+```
 
 `$realcode` - Set this to the chat code you want. In order for someone to access the chat, they need this special access code.
 `$chatname` - This will appear as a header above the chat, really doesn't affect the code.
