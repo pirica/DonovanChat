@@ -1,0 +1,1 @@
+(SYSTEM) - Hello and thanks for using Donovan Chat for your web project! You may delete this line from your chat.txt file, but don't delete this file or no one can chat! Check the README file in the Github repo at https://github.com/therealdonovan/DonovanChat for configuration information.
