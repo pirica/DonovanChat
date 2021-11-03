@@ -11,6 +11,7 @@ $maxmsg = "100";
 $maxsize = "100000000"; 
 $weburl = "http://localhost";
 ?>```
+
 `$realcode` - Set this to the chat code you want. In order for someone to access the chat, they need this special access code.
 `$chatname` - This will appear as a header above the chat, really doesn't affect the code.
 `$chatreload` - Updates in the chat will be checked every x seconds. Don't leave it too high (it will make things delayed) or too low (it might rate limit your server).
